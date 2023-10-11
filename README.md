@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ashutpandey
 - 👀 I’m a cse student @JSS STU i am a tech enthusiast
 - 🌱 I’m currently learning penetration testing and WebD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ashutpandey/ashutpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
